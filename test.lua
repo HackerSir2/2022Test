@@ -312,7 +312,7 @@ end
 print("0 or 1: ", 0 or 1)
 
 
-print('*******************************')
+-- print('*******************************')
 local rings = {0,1,2,5,3,1,8}
 for i,v in ipairs(rings) do
 	print(i,v)
