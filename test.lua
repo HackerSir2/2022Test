@@ -336,3 +336,5 @@ end
 
 print("GetNTotalRings(7): ", GetNTotalRings(10))
 
+local ret6
+print(type(ret6))
